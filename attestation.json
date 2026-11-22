@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.themecyber",
+  "repo": "NDesumeur/neodex-plugin-theme-cyber",
+  "version": "1.0.0",
+  "sha256": "3b778c81b0271a438c64706429403f76b326fffeb30cb9aebbc1284e5812e710",
+  "approvedAt": "2026-11-22T19:05:25.591Z",
+  "neobase": ">=4.1.0",
+  "signature": "9khizRDxXCt9oUR6X3Q+Y5HtN4CXH7GV5d0IPbwwqE3BlPY8SwLGYePy5h3AdGAPVayYQ01eEu/aIrr7v17JCw=="
+}
