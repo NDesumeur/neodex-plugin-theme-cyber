@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themecyber",
+  "name": "Thème Cyberpunk",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Néon jaune et cyan sur béton nocturne : coins coupés, bandes de danger, texte qui grésille. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "cyber",
+      "name": "Cyberpunk",
+      "style": "cyber",
+      "hue": 190,
+      "sat": 30,
+      "accent": "#fcee0a",
+      "light": "#00f0ff",
+      "third": "#ff2a6d",
+      "lift": 1.4,
+      "about": "Néon jaune et cyan sur béton nocturne : coins coupés, bandes de danger, texte qui grésille."
+    }
+  ]
+}
